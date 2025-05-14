@@ -1,0 +1,23 @@
+.pregunta1{
+    background-color: aqua;
+}
+.content-div{
+    border: 1px solid black;
+}
+.pregunta2{
+    background-color: blueviolet;
+}
+.pregunta5{
+    background-color: darkcyan;
+}
+.pregunta6{
+    color: goldenrod;
+}
+.pregunta7{
+    color: crimson;
+    background-color: dodgerblue;
+}
+.pregunta8{
+    color: white;
+    background-color: black;
+}
